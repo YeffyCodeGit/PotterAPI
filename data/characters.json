@@ -108,5 +108,31 @@
         "length": 0
       }
     ]
+  },
+  {
+    "name": "Tom Marvalo Riddle",
+    "actor": "Ralph Fiennes",
+    "house": "Slytherin",
+    "gender": "Male",
+    "blood_status": "Half blood",
+    "is_death_eater": true,
+    "patronus": "",
+    "wand": [
+      {
+        "wood": "Yew",
+        "core": "Phoenix Feather Core",
+        "length": 13.5
+      },
+      {
+        "wood": "Elm",
+        "core": "Dragon Heartstring",
+        "length": null
+      },
+      {
+        "wood": "Elder",
+        "core": "Thestral Tail Hair",
+        "length": null
+      }
+    ]
   }
 ]
