@@ -111,11 +111,6 @@
     "patronus": "Phoenix",
     "wand": [
       {
-        "wood": "Ebony Wood",
-        "core": null,
-        "length": null
-      },
-      {
         "wood": "Elder",
         "core": "Thestral tail hair",
         "length": 15
