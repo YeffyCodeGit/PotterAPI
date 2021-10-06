@@ -31,6 +31,40 @@
     ]
   },
   {
+    "name": "Ginevra Molly Potter",
+    "actor": "Bonnie Wright",
+    "house": "Gryffindor",
+    "gender": "Female",
+    "blood_status": "Pure-Blood",
+    "is_death_eater": false,
+    "patronus": "Horse",
+    "wand": [
+      {
+        "wood": "Yew",
+        "core": null,
+        "length": null
+      }
+      
+    ]
+  },
+  {
+    "name": "Neville Longbottom",
+    "actor": "Matthew Lewis",
+    "house": "Gryffindor",
+    "gender": "Male",
+    "blood_status": "Pure-Blood",
+    "is_death_eater": false,
+    "patronus": "Non-corporeal",
+    "wand": [
+      {
+        "wood": "Cherry",
+        "core": "Unicorn Hair",
+        "length": 13
+      }
+      
+    ]
+  },
+  {
     "name": "Hermione Jean Granger",
     "actor": "Emma Watson",
     "house": "Gryffindor",
@@ -48,6 +82,38 @@
         "wood": "Walnut",
         "core": "Dragon Heartstring",
         "length": 10
+      }
+    ]
+  },
+  {
+    "name": "Minerva McGonagall",
+    "actor": "Maggie Smith",
+    "house": "Gryffindor",
+    "gender": "Female",
+    "blood_status": "Half-Blood",
+    "is_death_eater": false,
+    "patronus": "Cat",
+    "wand": [
+      {
+        "wood": "Fir",
+        "core": "Dragon Heartstring",
+        "length": 9.5
+      }
+    ]
+  },
+  {
+    "name": "Albus Percival Wulfric Brian Dumbledore",
+    "actor": "Richard Harris",
+    "house": "Gryffindor",
+    "gender": "Male",
+    "blood_status": "Half-Blood",
+    "is_death_eater": false,
+    "patronus": "Phoenix",
+    "wand": [
+      {
+        "wood": "Elder",
+        "core": "Thestral tail hair",
+        "length": 15
       }
     ]
   },
