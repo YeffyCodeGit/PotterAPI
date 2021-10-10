@@ -1,155 +1,183 @@
 [
-    {
-        "spell": "accio",
-        "type": "charm",
-        "task": "summoning charm"
-    },
-    {
-        "spell": "aguamenti",
-        "type": "charm",
-        "task": "water-making spell"
-    },
-    {
-        "spell": "alohomora",
-        "type": "charm",
-        "task": "unlocking charm"
-    },
-    {
-        "spell": "aparecium",
-        "type": "charm",
-        "task": "revealing charm"
-    },
-    {
-        "spell": "arresto momentum",
-        "type": "charm",
-        "task": "slowing charm"
-    },
-    {
-        "spell": "avada kadavra",
-        "type": "curse",
-        "task": "killing curse"
-    },
-    {
-        "spell": "avifors",
-        "type": "transfiguration",
-        "task": "transfigures the target to bird"
-    },
-    {
-        "spell": "bombarda",
-        "type": "charm",
-        "task": "provokes a small explosion"
-    },
-    {
-        "spell": "colloportus",
-        "type": "charm",
-        "task": "locking spell"
-    },
-    {
-        "spell": "episkey",
-        "type": "healing spell",
-        "task": "use to heal minor injuries"
-    },
-    {
-        "spell": "expecto patronum",
-        "type": "charm",
-        "task": "patronous charm"
-    },
-    {
-        "spell": "expelliarmus",
-        "type": "charm",
-        "task": "disarming charm"
-    },
-    {
-        "spell": "expulso",
-        "type": "curse",
-        "task": "expulso curse"
-    },
-    {
-        "spell": "fumos",
-        "type": "charm",
-        "task": "smokescreen spell"
-    },
-    {
-        "spell": "geminio",
-        "type": "charm",
-        "task": "doubling charm"
-    },
-    {
-        "spell": "glacius",
-        "type": "charm",
-        "task": "freezing spell"
-    },
-    {
-        "spell": "herbivicus",
-        "type": "charm",
-        "task": "herbivicus charm"
-    },
-    {
-        "spell": "homenum revelio",
-        "type": "charm",
-        "task": "human presence revealing spell"
-    },
-    {
-        "spell": "immobulus",
-        "type": "charm",
-        "task": "freezing charm"
-    },
-    {
-        "spell": "imperio",
-        "type": "curse",
-        "task": "imperius curse"
-    },
-    {
-        "spell": "incendio",
-        "type": "charm",
-        "task": "fire-making spell"
-    },
-    {
-        "spell": "lumos",
-        "type": "charm",
-        "task": "wand-lighting spell"
-    },
-    {
-        "spell": "obliviate",
-        "type": "charm",
-        "task": "memory charm"
-    },
-    {
-        "spell": "protego",
-        "type": "charm",
-        "task": "shield charm"
-    },
-    {
-        "spell": "reducio",
-        "type": "charm",
-        "task": "shrinking charm"
-    },
-    {
-        "spell": "reducto",
-        "type": "curse",
-        "task": "reductor curse"
-    },
-    {
-        "spell": "rictusempra",
-        "type": "charm",
-        "task": "tickling charm"
-    },
-    {
-        "spell": "stupefy",
-        "type": "charm",
-        "task": "stunning spell"
-    },
-    {
-        "spell": "ventus",
-        "type": "charm",
-        "task": "windy spell"
-    },
-    {
-        "spell": "wingardium leviosa",
-        "type": "charm",
-        "task": "levitation charm"
-    }
-    
-    
+  {
+    "spell": "Accio",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "summoning Charm"
+  },
+  {
+    "spell": "Aguamenti",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "water-making spell"
+  },
+  {
+    "spell": "Alohomora",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "unlocking Charm"
+  },
+  {
+    "spell": "Aparecium",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "revealing Charm"
+  },
+  {
+    "spell": "Arresto momentum",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "slowing Charm"
+  },
+  {
+    "spell": "Avada Kadavra",
+    "type": "curse",
+    "incantation": "spell incantation",
+    "task": "killing curse"
+  },
+  {
+    "spell": "Avifors",
+    "type": "transfiguration",
+    "incantation": "spell incantation",
+    "task": "transfigures the target to bird"
+  },
+  {
+    "spell": "Bombarda",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "provokes a small explosion"
+  },
+  {
+    "spell": "Colloportus",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "locking spell"
+  },
+  {
+    "spell": "Episkey",
+    "type": "healing spell",
+    "incantation": "spell incantation",
+    "task": "use to heal minor injuries"
+  },
+  {
+    "spell": "Expecto Patronum",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "patronous Charm"
+  },
+  {
+    "spell": "Expelliarmus",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "disarming Charm"
+  },
+  {
+    "spell": "Expulso",
+    "type": "curse",
+    "incantation": "spell incantation",
+    "task": "expulso curse"
+  },
+  {
+    "spell": "Fumos",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "smokescreen spell"
+  },
+  {
+    "spell": "Geminio",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "doubling Charm"
+  },
+  {
+    "spell": "Glacius",
+    "incantation": "spell incantation",
+    "type": "Charm",
+    "task": "freezing spell"
+  },
+  {
+    "spell": "Herbivicus",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "herbivicus Charm"
+  },
+  {
+    "spell": "Homenum revelio",
+    "type": "Charm",
+    "incantation": "spell incantation",
 
+    "task": "human presence revealing spell"
+  },
+  {
+    "spell": "Immobulus",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "freezing Charm"
+  },
+  {
+    "spell": "Imperio",
+    "type": "curse",
+    "incantation": "spell incantation",
+    "task": "imperius curse"
+  },
+  {
+    "spell": "Incendio",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "fire-making spell"
+  },
+  {
+    "spell": "Lumos",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "wand-lighting spell"
+  },
+  {
+    "spell": "Obliviate",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "memory Charm"
+  },
+  {
+    "spell": "Protego",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "shield Charm"
+  },
+  {
+    "spell": "Reducio",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "shrinking Charm"
+  },
+  {
+    "spell": "Reducto",
+    "type": "curse",
+    "incantation": "spell incantation",
+    "task": "reductor curse"
+  },
+  {
+    "spell": "Rictusempra",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "tickling Charm"
+  },
+  {
+    "spell": "Stupefy",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "stunning spell"
+  },
+  {
+    "spell": "Ventus",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "windy spell"
+  },
+  {
+    "spell": "Wingardium Leviosa",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "levitation Charm"
+  }
 ]
