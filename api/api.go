@@ -21,11 +21,5 @@ func Start() error {
 		app.Get(r.Url, r.Callback)
 	}
 
-	err := app.Listen(":3000")
-
-	if err != nil {
-		return err
-	}
-
-	return nil
+	return app.Listen(":3000")
 }
