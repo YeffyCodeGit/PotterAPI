@@ -5,7 +5,7 @@ import (
 )
 
 type Route struct {
-	Url string
+	Url      string
 	Callback func(c *fiber.Ctx) error
 }
 
@@ -75,9 +75,23 @@ var routes = []Route{
 		Callback: func(c *fiber.Ctx) error {
 			characters, err := GetData("characters")
 
-			if err != nil { return c.SendStatus(500) }
+			if err != nil {
+				return c.SendStatus(500)
+			}
 
 			return c.SendString(characters)
+		},
+	},
+	{
+		Url: "/spells",
+		Callback: func(c *fiber.Ctx) error {
+			spells, err := GetData("spells")
+
+			if err != nil {
+				return c.SendStatus(500)
+			}
+
+			return c.SendString(spells)
 		},
 	},
 }
