@@ -1,0 +1,182 @@
+[
+  {
+    "spell": "Accio",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Summoning charm; Summons an object towards the caster"
+  },
+  {
+    "spell": "Aguamenti",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Water-making spell; produces a clean, drinkable stream of water from wand tip"
+  },
+  {
+    "spell": "Alohomora",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Unlocking Charm: Unlocks doors and other locked objects"
+  },
+  {
+    "spell": "Aparecium",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Revealing Charm; reveals secret messages written in invisible ink"
+  },
+  {
+    "spell": "Arresto momentum",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Slowing Charm; decreases velocity of moving target"
+  },
+  {
+    "spell": "Avada Kadavra",
+    "type": "curse",
+    "incantation": "spell incantation",
+    "task": "killing curse; causes instantaneous death"
+  },
+  {
+    "spell": "Avifors",
+    "type": "transfiguration",
+    "incantation": "spell incantation",
+    "task": "transfigures the target to bird"
+  },
+  {
+    "spell": "Bombarda",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Exploding charm; provokes a small explosion"
+  },
+  {
+    "spell": "Colloportus",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Locking spell; locks doors and all possible things than can be locked"
+  },
+  {
+    "spell": "Episkey",
+    "type": "Healing spell",
+    "incantation": "spell incantation",
+    "task": "Used to heal minor injuries"
+  },
+  {
+    "spell": "Expecto Patronum",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Patronous Charm; advanced protective spell which conjure a spirit guardian of their positive emotions "
+  },
+  {
+    "spell": "Expelliarmus",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Disarming Charm; forces whatever an opponent is holding to fly out of the hand"
+  },
+  {
+    "spell": "Expulso",
+    "type": "curse",
+    "incantation": "spell incantation",
+    "task": "Expulso curse; provokes an explosion, which uses pressure causing heat"
+  },
+  {
+    "spell": "Fumos",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Smokescreen spell; creates defensive homescreen that hinders visibility"
+  },
+  {
+    "spell": "Geminio",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Doubling Charm; duplicates the target object"
+  },
+  {
+    "spell": "Glacius",
+    "incantation": "spell incantation",
+    "type": "Charm",
+    "task": "Freezing spell; freezes the target with cold air"
+  },
+  {
+    "spell": "Herbivicus",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Herbivicus Charm; rapidly grows plants"
+  },
+  {
+    "spell": "Homenum revelio",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Human-Presence revealing spell; reveals human presence in the vicinity of caster"
+  },
+  {
+    "spell": "Immobulus",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Freezing Charm; immobilises and stops the action of the target "
+  },
+  {
+    "spell": "Imperio",
+    "type": "curse",
+    "incantation": "spell incantation",
+    "task": "Imperius curse; places the target completely under the control of caster"
+  },
+  {
+    "spell": "Incendio",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Fire-Making spell; produces fire all around"
+  },
+  {
+    "spell": "Lumos",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Wand-Lighting spell; illuminates the tip of caster's wand "
+  },
+  {
+    "spell": "Obliviate",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Memory Charm; erases specific memories"
+  },
+  {
+    "spell": "Protego",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Shield Charm; invisible shield that reflects spells and blocks physical entities"
+  },
+  {
+    "spell": "Reducio",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Shrinking Charm; makes the target shrink in size"
+  },
+  {
+    "spell": "Reducto",
+    "type": "curse",
+    "incantation": "spell incantation",
+    "task": "Reductor curse; breaks the object"
+  },
+  {
+    "spell": "Rictusempra",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Tickling Charm; tickles the target until they become weak with laughter"
+  },
+  {
+    "spell": "Stupefy",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Stunning spell; stuns the target, or makes them unconscious"
+  },
+  {
+    "spell": "Ventus",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Windy spell; shoots a jet of strong spiral wind from tip of wand "
+  },
+  {
+    "spell": "Wingardium Leviosa",
+    "type": "Charm",
+    "incantation": "spell incantation",
+    "task": "Levitation Charm; makes the objects fly"
+  }
+]
