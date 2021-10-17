@@ -105,12 +105,12 @@
     "patronus": "None",
     "wand": [
       {
-        "wood": "unknown wand 1",
+        "wood": "null",
         "core": "null",
         "length": 0
       },
       {
-        "wood": "unknown wand 2",
+        "wood": "null",
         "core": "null",
         "length": 0
       }
@@ -196,12 +196,12 @@
     "patronus": "Hare",
     "wand": [
       {
-        "wood": "unknown wand 1",
+        "wood": "null",
         "core": "null",
         "length": 0
       },
       {
-        "wood": "unknown wand 2",
+        "wood": "null",
         "core": "null",
         "length": 0
       }
@@ -267,7 +267,7 @@
     "gender": "Male",
     "blood_status": "Pure-blood",
     "is_death_eater": false,
-    "patronus": "",
+    "patronus": "null",
     "wand": [
       {
         "wood": "Hawthorn",
@@ -291,8 +291,8 @@
     "patronus": "Doe",
     "wand": [
       {
-        "wood": "Unknown",
-        "core": "Unknown",
+        "wood": "null",
+        "core": "null",
         "length": 0
       }
     ]
