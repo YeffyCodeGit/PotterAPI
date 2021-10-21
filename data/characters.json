@@ -200,5 +200,21 @@
         "length": null
       }
     ]
+  },
+  {
+    "name": "Horace Eugene Flaccus",
+    "actor": "Jim Broadbent",
+    "house": "Slytherin",
+    "gender": "Male",
+    "blood_status": null,
+    "is_death_eater": false,
+    "patronus": "Fish",
+    "wand": [
+      {
+        "wood": "Cedarwood",
+        "core": "Dragon Heartstring",
+        "length": 10
+      }
+    ]
   }
 ]
