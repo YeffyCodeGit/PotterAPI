@@ -13,6 +13,7 @@ namespace HarryPotterAPI.Controllers
     /// Controls all the endpoints related to getting data on the different wizarding schools.
     /// </summary>
     [ApiController]
+    [Produces("application/json")]
     public class SchoolsController : ControllerBase
     {
         /// <summary>
