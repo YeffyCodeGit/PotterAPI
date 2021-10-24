@@ -16,13 +16,6 @@ namespace HarryPotterAPI.Controllers
     [Produces("application/json")]
     public class BooksController : ControllerBase
     {
-        private readonly ILogger<BooksController> _logger;
-
-        public BooksController(ILogger<BooksController> logger)
-        {
-            _logger = logger;
-        }
-
         /// <summary>
         /// Returns a JSON object containing all the books in the franchise.
         /// </summary> 
