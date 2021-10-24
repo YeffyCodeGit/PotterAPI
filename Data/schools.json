@@ -1,0 +1,34 @@
+﻿[
+  {
+    "name": "Beauxbatons Academy of Magic",
+    "location": "Pyrenees, France"
+  },
+  {
+    "name": "Castelobruxo",
+    "location": "Amazon Rainforest, Brazil"
+  },
+  {
+    "name": "Durmstrang Institue",
+    "location": "Scandinavia"
+  },
+  {
+    "name": "Hogwarts School of Witchcraft and Wizardry",
+    "location": "Highlands, Scotland"
+  },
+  {
+    "name": "Ilvermorny School of Witchcraft and Wizardry",
+    "location": "Mount Greylock, United States of America"
+  },
+  {
+    "name": "Koldovstoretz",
+    "location": "Russia"
+  },
+  {
+    "name": "Mahoutokoro School of Magic",
+    "location": "Minami Iwo Jima, Japan"
+  },
+  {
+    "name": "Uagadou School of Magic",
+    "location": "Mountains of the Moon, Uganda"
+  }
+]
