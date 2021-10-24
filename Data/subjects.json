@@ -1,0 +1,42 @@
+﻿[
+  {
+    "name": "Astronomy",
+    "core_subject": true,
+    "description": "Astronomy involved observing the night sky with telescopes. Lessons were held at midnight every week. Astronomy was the only subject which had a direct equivalent in the Muggle world."
+  },
+  {
+    "name": "Charms",
+    "core_subject": true,
+    "description": "Charms were a type of spells concerned with giving an object new and unexpected properties, and hence this class mainly consisted of learning those sorts of spells."
+  },
+  {
+    "name": "Dark Arts",
+    "core_subject": false,
+    "description": "Dark Arts only became a subject and mandatory for all students during the 1997–1998 school year, when it was taught by Amycus Carrow."
+  },
+  {
+    "name": "Defense Against the Dark Arts",
+    "core_subject": true,
+    "description": "Defence Against the Dark Arts, commonly shortened to D.A.D.A., was the class that taught students defensive techniques to defend against the Dark Arts, and to be protected from dark creatures."
+  },
+  {
+    "name": "Herbology",
+    "core_subject": true,
+    "description": "Herbology was the study of magical plants and how to take care of, utilise and combat them."
+  },
+  {
+    "name": "History of Magic",
+    "core_subject": true,
+    "description": "History of Magic was the study of magical history, which was taught by Professor Cuthbert Binns. His lessons were depicted as some of the most boring at Hogwarts. They were only lectures, given without pause, about significant events in wizarding history."
+  },
+  {
+    "name": "Potions",
+    "core_subject": true,
+    "description": "Potions was described as the art of creating mixtures with magical effects. It required the correct mixing and stirring of ingredients at the right times and temperatures. "
+  },
+  {
+    "name": "Transfiguration",
+    "core_subject": true,
+    "description": "Transfiguration was the art of changing the form or appearance of an object, and hence this was what this class taught. Transfiguration was a theory-based subject, including topics such as \"Switching Spells\" (altering only a part of some object, such as giving a human rabbit's ears); Vanishing Spells (causing an object to completely disappear); and Conjuring Spells (creating objects out of thin air)."
+  }
+]

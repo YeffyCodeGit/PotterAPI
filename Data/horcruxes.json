@@ -1,0 +1,51 @@
+﻿[
+  {
+    "name": "Tom Riddle's Diary",
+    "victim": "Myrtle Warren",
+    "hiding_place": "Lucius Malfoy",
+    "destroyed_by": "Harry Potter",
+    "destroyed_with": "Basilisk Fang"
+  },
+  {
+    "name": "Marvolo Gaunt's Ring",
+    "victim": "Tom Riddle Senior",
+    "hiding_place": "Gaunt Shack",
+    "destroyed_by": "Albus Dumbledore",
+    "destroyed_with": "Sword of Gryffindor"
+  },
+  {
+    "name": "Salazar Slytherin's Locket",
+    "victim": "Unknown Muggle Tramp",
+    "hiding_place": "Crystal Cave",
+    "destroyed_by": "Ron Weasly",
+    "destroyed_with": "Sword of Gryffindor"
+  },
+  {
+    "name": "Helga Hufflepuff's Cup",
+    "victim": "Hepzibah Smith",
+    "hiding_place": "Lestranges Gringots Vault",
+    "destroyed_by": "Hermoine Granger",
+    "destroyed_with": "Basilisk Fang"
+  },
+  {
+    "name": "Rowena Ravenclaw's Diadem",
+    "victim": "Unknown Albanian Peasant",
+    "hiding_place": "Room of Requirement",
+    "destroyed_by": "Vincent Crabbe",
+    "destroyed_with": "Fiendfyre Curse"
+  },
+  {
+    "name": "Nagini",
+    "victim": "Bertha Jorkins",
+    "hiding_place": "Alongside Voldemort",
+    "destroyed_by": "Neville Longbottom",
+    "destroyed_with": "Sword of Gryffindor"
+  },
+  {
+    "name": "Harry Potter",
+    "victim": "Lily Potter",
+    "hiding_place": "Harry Potter",
+    "destroyed_by": "Tom Riddle",
+    "destroyed_with": "The Killing Curse"
+  }
+]

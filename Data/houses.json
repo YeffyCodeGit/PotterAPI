@@ -1,0 +1,73 @@
+﻿[
+  {
+    "name": "Gryffindor",
+    "animal": "Lion",
+    "properties": [
+      "Courage",
+      "Bravery",
+      "Determination",
+      "Nerve",
+      "Chivalry"
+    ],
+    "colors": [
+      "#9F171A",
+      "#E7811C"
+    ],
+    "founder": "Godric Gryffindor",
+    "treasure": "The Sword of Gryffindor"
+  },
+  {
+    "name": "Slytherin",
+    "animal": "Serpent",
+    "properties": [
+      "Resourcefulness",
+      "Determination",
+      "Pride",
+      "Cunning",
+      "Ambition",
+      "Self-preservation"
+    ],
+    "colors": [
+      "#60E315",
+      "#676767"
+    ],
+    "founder": "Salazar Slytherin",
+    "treasure": "Salazar Slytherin's Locket"
+  },
+  {
+    "name": "Ravenclaw",
+    "animal": "Eagle",
+    "properties": [
+      "Wit",
+      "Learning",
+      "Wisdom",
+      "Acceptance",
+      "Intelligence",
+      "Creativity"
+    ],
+    "colors": [
+      "#3D99BF",
+      "#919191"
+    ],
+    "founder": "Rowena Ravenclaw",
+    "treasure": "The Diadem of Ravenclaw"
+  },
+  {
+    "name": "Hufflepuff",
+    "animal": "Badger",
+    "properties": [
+      "Hard Working",
+      "Patient",
+      "Fairness",
+      "Just",
+      "Loyalty",
+      "Modesty"
+    ],
+    "colors": [
+      "#E2C200",
+      "#000000"
+    ],
+    "founder": "Helga Hufflepuff",
+    "treasure": "The Hufflepuff Cup"
+  }
+]

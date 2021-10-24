@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Harry Potter and the Philosopher's Stone",
+    "published_at": "1997-06-26",
+    "page_count": 223
+  },
+  {
+    "name": "Harry Potter and the Chamber of Secrets",
+    "published_at": "1998-06-02",
+    "page_count": 251
+  },
+  {
+    "name": "Harry Potter and the Prisoner of Azkaban",
+    "published_at": "1999-06-08",
+    "page_count": 317
+  },
+  {
+    "name": "Harry Potter and the Goblet of Fire",
+    "published_at": "2009-06-02",
+    "page_count": 636
+  },
+  {
+    "name": "Harry Potter and the Order of the Phoenix",
+    "published_at": "2003-06-21",
+    "page_count": 766
+  },
+  {
+    "name": "Harry Potter and the Half-Blood Prince",
+    "published_at": "2005-06-16",
+    "page_count": 607
+  },
+  {
+    "name": "Harry Potter and the Deathly Hallows",
+    "published_at": "2007-06-21",
+    "page_count": 607
+  }
+]
