@@ -9,10 +9,17 @@ using System.Threading.Tasks;
 
 namespace HarryPotterAPI.Controllers
 {
+    /// <summary>
+    /// Controls all endpoints related to getting data on all the characters in the Wizarding World.
+    /// </summary>
     [ApiController]
     [Produces("application/json")]
     public class CharacterController : ControllerBase
     {
+        /// <summary>
+        /// Gets all the characters in the Wizarding World.
+        /// </summary>
+        /// <returns>Collection of all the characters.</returns>
         [HttpGet("/characters/all")]
         public async Task<IEnumerable<Character>> GetAllCharacters() => await JsonUtilities.ReadJsonAsObjectArrayAsync<Character>("./Data/characters.json");
     }
