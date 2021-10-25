@@ -1,0 +1,342 @@
+﻿[
+  {
+    "name": "Harry James Potter",
+    "actor": "Daniel Radcliff",
+    "house": "Gryffindor",
+    "gender": "Male",
+    "blood_status": "Half-Blood",
+    "is_death_eater": false,
+    "patronus": "Stag",
+    "wand": [
+      {
+        "wood": "Holly",
+        "core": "Phoenix Tail Feather",
+        "length": 11
+      },
+      {
+        "wood": "Elder",
+        "core": "Thestral Tail Hair",
+        "length": null
+      },
+      {
+        "wood": "Hawthorn",
+        "core": "Unicorn Hair",
+        "length": 10
+      },
+      {
+        "wood": "Vine",
+        "core": "Dragon Heartstring",
+        "length": 10
+      }
+    ]
+  },
+  {
+    "name": "Ginevra Molly Potter",
+    "actor": "Bonnie Wright",
+    "house": "Gryffindor",
+    "gender": "Female",
+    "blood_status": "Pure-Blood",
+    "is_death_eater": false,
+    "patronus": "Horse",
+    "wand": [
+      {
+        "wood": "Yew",
+        "core": null,
+        "length": null
+      }
+
+    ]
+  },
+  {
+    "name": "James Potter",
+    "actor": "Adrian Rawlins",
+    "house": "Gryffindor",
+    "gender": "Male",
+    "blood_status": "Pure-blood",
+    "is_death_eater": false,
+    "patronus": "Stag",
+    "wand": [
+      {
+        "wood": "Mahogany",
+        "core": "null",
+        "length": 11
+      }
+    ]
+  },
+  {
+    "name": "Lily Potter",
+    "actor": "Ellie May Darcey-Alden",
+    "house": "Gryffindor",
+    "gender": "Female",
+    "blood_status": "Muggle-born",
+    "is_death_eater": false,
+    "patronus": "Doe",
+    "wand": [
+      {
+        "wood": "Willow",
+        "core": "null",
+        "length": 10.25
+      }
+    ]
+  },
+  {
+    "name": "Lucius Malfoy",
+    "actor": "Jason Isaacs",
+    "house": "Slytherin",
+    "gender": "Male",
+    "blood_status": "Pure-blood",
+    "is_death_eater": true,
+    "patronus": "None",
+    "wand": [
+      {
+        "wood": "Elm",
+        "core": "Dragon heartstring",
+        "length": null
+      }
+    ]
+  },
+  {
+    "name": "Narcissa Malfoy",
+    "actor": "",
+    "house": "Helen McCrory",
+    "gender": "Female",
+    "blood_status": "Pure-blood",
+    "is_death_eater": true,
+    "patronus": "None",
+    "wand": [
+      {
+        "wood": "null",
+        "core": "null",
+        "length": 0
+      },
+      {
+        "wood": "null",
+        "core": "null",
+        "length": 0
+      }
+    ]
+  },
+  {
+    "name": "Arthur Weasley",
+    "actor": "Mark Williams",
+    "house": "Gryffindor",
+    "gender": "Male",
+    "blood_status": "Pure-blood",
+    "is_death_eater": false,
+    "patronus": "Weasel",
+    "wand": [
+      {
+        "wood": "null",
+        "core": "null",
+        "length": null
+      }
+    ]
+  },
+  {
+    "name": "Molly Weasley",
+    "actor": "Julie Walters",
+    "house": "Gryffindor",
+    "gender": "Female",
+    "blood_status": "Pure-blood",
+    "is_death_eater": false,
+    "patronus": "Non-corporeal",
+    "wand": [
+      {
+        "wood": "null",
+        "core": "null",
+        "length": null
+      }
+    ]
+  },
+  {
+    "name": "Neville Longbottom",
+    "actor": "Matthew Lewis",
+    "house": "Gryffindor",
+    "gender": "Male",
+    "blood_status": "Pure-Blood",
+    "is_death_eater": false,
+    "patronus": "Non-corporeal",
+    "wand": [
+      {
+        "wood": "Cherry",
+        "core": "Unicorn Hair",
+        "length": 13
+      }
+
+    ]
+  },
+  {
+    "name": "Hermione Jean Granger",
+    "actor": "Emma Watson",
+    "house": "Gryffindor",
+    "gender": "Female",
+    "blood_status": "Muggle-Born",
+    "is_death_eater": false,
+    "patronus": "Otter",
+    "wand": [
+      {
+        "wood": "Vine",
+        "core": "Dragon Heartstring",
+        "length": 10
+      },
+      {
+        "wood": "Walnut",
+        "core": "Dragon Heartstring",
+        "length": 10
+      }
+    ]
+  },
+  {
+    "name": "Luna Lovegood",
+    "actor": "Evanna Lynch",
+    "house": "Ravenclaw",
+    "gender": "Female",
+    "blood_status": "Pure-blood",
+    "is_death_eater": false,
+    "patronus": "Hare",
+    "wand": [
+      {
+        "wood": "null",
+        "core": "null",
+        "length": 0
+      },
+      {
+        "wood": "null",
+        "core": "null",
+        "length": 0
+      }
+    ]
+  },
+  {
+    "name": "Minerva McGonagall",
+    "actor": "Maggie Smith",
+    "house": "Gryffindor",
+    "gender": "Female",
+    "blood_status": "Half-Blood",
+    "is_death_eater": false,
+    "patronus": "Cat",
+    "wand": [
+      {
+        "wood": "Fir",
+        "core": "Dragon Heartstring",
+        "length": 9.5
+      }
+    ]
+  },
+  {
+    "name": "Albus Percival Wulfric Brian Dumbledore",
+    "actor": "Richard Harris",
+    "house": "Gryffindor",
+    "gender": "Male",
+    "blood_status": "Half-Blood",
+    "is_death_eater": false,
+    "patronus": "Phoenix",
+    "wand": [
+      {
+        "wood": "Elder",
+        "core": "Thestral tail hair",
+        "length": 15
+      }
+    ]
+  },
+  {
+    "name": "Ronald Bilius Weasley",
+    "actor": "Rupert Grint",
+    "house": "Gryffindor",
+    "gender": "Male",
+    "blood_status": "Pure-blood",
+    "is_death_eater": false,
+    "patronus": "Jack Russell Terrier",
+    "wand": [
+      {
+        "wood": "Ash",
+        "core": "Unicorn Hair",
+        "length": 12
+      },
+      {
+        "wood": "Willow",
+        "core": "Unicorn Hair",
+        "length": 14
+      }
+    ]
+  },
+  {
+    "name": "Draco Lucius Malfoy",
+    "actor": "Tom Felton",
+    "house": "Slytherin",
+    "gender": "Male",
+    "blood_status": "Pure-blood",
+    "is_death_eater": false,
+    "patronus": "null",
+    "wand": [
+      {
+        "wood": "Hawthorn",
+        "core": "Unicorn Hair",
+        "length": 10
+      },
+      {
+        "wood": "Elder",
+        "core": "Thestral Tail Hair",
+        "length": null
+      }
+    ]
+  },
+  {
+    "name": "Severus Snape",
+    "actor": "Alan Rickman",
+    "house": "Slytherin",
+    "gender": "Male",
+    "blood_status": "Half-blood",
+    "is_death_eater": true,
+    "patronus": "Doe",
+    "wand": [
+      {
+        "wood": "null",
+        "core": "null",
+        "length": 0
+      }
+    ]
+  },
+  {
+    "name": "Tom Marvalo Riddle",
+    "actor": "Ralph Fiennes",
+    "house": "Slytherin",
+    "gender": "Male",
+    "blood_status": "Half-blood",
+    "is_death_eater": true,
+    "patronus": "",
+    "wand": [
+      {
+        "wood": "Yew",
+        "core": "Phoenix Feather Core",
+        "length": 13.5
+      },
+      {
+        "wood": "Elm",
+        "core": "Dragon Heartstring",
+        "length": null
+      },
+      {
+        "wood": "Elder",
+        "core": "Thestral Tail Hair",
+        "length": null
+      }
+    ]
+  },
+  {
+    "name": "Horace Eugene Flaccus",
+    "actor": "Jim Broadbent",
+    "house": "Slytherin",
+    "gender": "Male",
+    "blood_status": null,
+    "is_death_eater": false,
+    "patronus": "Fish",
+    "wand": [
+      {
+        "wood": "Cedarwood",
+        "core": "Dragon Heartstring",
+        "length": 10
+      }
+    ]
+  }
+]
