@@ -338,5 +338,21 @@
         "length": 10
       }
     ]
+  },
+  {
+    "name": "Pomona Sprout",
+    "actor": "Miriam Margolyes",
+    "house": "Hufflepuff",
+    "gender": "Female",
+    "blood_status": null,
+    "is_death_eater": false,
+    "patronus": null,
+    "wand": [
+      {
+        "wood": null,
+        "core": null,
+        "length": null
+      }
+    ]
   }
 ]
