@@ -356,6 +356,19 @@
     ]
   },
   {
-    
+    "name": "Sirius Black III",
+    "actor": "Gary Oldman",
+    "house": "Gryffindor",
+    "gender": "Male",
+    "blood_status": "Pure-blood",
+    "is_death_eater": false,
+    "patronus": "Black Dog",
+    "wand": [
+      {
+        "wood": null,
+        "core": null,
+        "length": null
+      }
+    ]
   }
 ]
