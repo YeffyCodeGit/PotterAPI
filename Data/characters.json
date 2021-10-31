@@ -370,5 +370,37 @@
         "length": null
       }
     ]
+  },
+  {
+    "name": "James Potter I",
+    "actor": "Adrian Rawlins",
+    "house": "Gryffindor",
+    "gender": "Male",
+    "blood_status": "Pure-blood",
+    "is_death_eater": false,
+    "patronus": "Stag",
+    "wand": [
+      {
+        "wood": "Mahogany",
+        "core": null,
+        "length": 11
+      }
+    ]
+  },
+  {
+    "name": "Remus John Lupin",
+    "actor": "David Thewlis",
+    "house": "Gryffindor",
+    "gender": "Male",
+    "blood_status": "Half-blood",
+    "is_death_eater": false,
+    "patronus": "Wolf",
+    "wand": [
+      {
+        "wood": "Cypress",
+        "core": "Unicorn Hair",
+        "length": 10
+      }
+    ]
   }
 ]
