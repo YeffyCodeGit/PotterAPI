@@ -266,7 +266,7 @@
     "house": "Slytherin",
     "gender": "Male",
     "blood_status": "Pure-blood",
-    "is_death_eater": false,
+    "is_death_eater": true,
     "patronus": "null",
     "wand": [
       {
