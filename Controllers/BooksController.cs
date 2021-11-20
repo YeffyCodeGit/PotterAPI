@@ -32,7 +32,7 @@ namespace HarryPotterAPI.Controllers
         [HttpGet("/books")]
         public async Task<Book> GetBook(string name)
         {
-            List<Book> books = (await GetAllBooks()).ToList();
+            IEnumerable<Book> books = await GetAllBooks();
 
             return books?.FirstOrDefault(b => b.Name == name);
         }
