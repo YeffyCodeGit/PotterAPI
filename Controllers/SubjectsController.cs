@@ -22,5 +22,18 @@ namespace HarryPotterAPI.Controllers
         /// <returns>A collection of all the subjects.</returns>
         [HttpGet("/subjects/all")]
         public async Task<IEnumerable<Subject>> GetAllSubjects() => await JsonUtilities.ReadJsonAsObjectArrayAsync<Subject>("./Data/subjects.json");
+        
+        /// <summary>
+        /// Returns a JSON object of the requested house.
+        /// </summary>
+        /// <param name="name">The name of the house.</param>
+        /// <returns>The house requested by the user.</returns>
+        [HttpGet("/subjects")]
+        public async Task<Subject> GetHouse(string name)
+        {
+            IEnumerable<Subject> houses = await GetAllSubjects();
+
+            return houses?.FirstOrDefault(h => h.Name == name);
+        }
     }
 }

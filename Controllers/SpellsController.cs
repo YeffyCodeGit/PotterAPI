@@ -22,5 +22,18 @@ namespace HarryPotterAPI.Controllers
         /// <returns>A collection of all the spells.</returns>
         [HttpGet("/spells/all")]
         public async Task<IEnumerable<Spell>> GetAllSpells() => await JsonUtilities.ReadJsonAsObjectArrayAsync<Spell>("./Data/spells.json");
+        
+        /// <summary>
+        /// Returns a JSON object of the requested house.
+        /// </summary>
+        /// <param name="name">The name of the house.</param>
+        /// <returns>The house requested by the user.</returns>
+        [HttpGet("/spells")]
+        public async Task<Spell> GetHouse(string name)
+        {
+            IEnumerable<Spell> houses = await GetAllSpells();
+
+            return houses?.FirstOrDefault(h => h.Name == name);
+        }
     }
 }
