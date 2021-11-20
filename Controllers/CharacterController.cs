@@ -22,5 +22,19 @@ namespace HarryPotterAPI.Controllers
         /// <returns>Collection of all the characters.</returns>
         [HttpGet("/characters/all")]
         public async Task<IEnumerable<Character>> GetAllCharacters() => await JsonUtilities.ReadJsonAsObjectArrayAsync<Character>("./Data/characters.json");
+
+        
+        /// <summary>
+        /// Returns a JSON object of the requested character.
+        /// </summary>
+        /// <param name="name">Name of the character.</param>
+        /// <returns>The character requested by the user.</returns>
+        [HttpGet("/characters")]
+        public async Task<Character> GetCharacter(string name)
+        {
+            List<Character> characters = (await GetAllCharacters()).ToList();
+
+            return characters?.FirstOrDefault(c => c.Name == name);
+        }
     }
 }
