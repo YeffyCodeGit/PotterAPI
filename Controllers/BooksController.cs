@@ -24,7 +24,17 @@ namespace HarryPotterAPI.Controllers
         public async Task<IEnumerable<Book>> GetAllBooks() => await JsonUtilities.ReadJsonAsObjectArrayAsync<Book>("./Data/books.json");
 
 
-        // [HttpGet("/books")]
-        // public Book GetBook() => throw new NotImplementedException("TODO: Implement /book endpoint to get a specific book");
+        /// <summary>
+        /// Returns a JSON object of the requested book.
+        /// </summary>
+        /// <param name="name">The name of the book.</param>
+        /// <returns>The book requested by the user.</returns>
+        [HttpGet("/books")]
+        public async Task<Book> GetBook(string name)
+        {
+            List<Book> books = (await GetAllBooks()).ToList();
+
+            return books?.FirstOrDefault(b => b.Name == name);
+        }
     }
 }
