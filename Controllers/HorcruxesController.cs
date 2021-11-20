@@ -21,5 +21,19 @@ namespace HarryPotterAPI.Controllers
         /// <returns>A collection of all the horcruxes.</returns>
         [HttpGet("/horcruxes/all")]
         public async Task<IEnumerable<Horcrux>> GetAllHorcruxes() => await JsonUtilities.ReadJsonAsObjectArrayAsync<Horcrux>("./Data/horcruxes.json");
+
+        
+        /// <summary>
+        /// Returns a JSON object of the requested horcruxes.
+        /// </summary>
+        /// <param name="name">The name of the horcrux.</param>
+        /// <returns>The horcrux requested by the user.</returns>
+        [HttpGet("/horcruxes")]
+        public async Task<Horcrux> GetHorcrux(string name)
+        {
+            IEnumerable<Horcrux> horcruxes = await GetAllHorcruxes();
+
+            return horcruxes?.FirstOrDefault(h => h.Name == name);
+        }
     }
 }
