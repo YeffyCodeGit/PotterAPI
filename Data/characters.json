@@ -158,11 +158,10 @@
     "patronus": "Non-corporeal",
     "wand": [
       {
-        "wood": "Cherry",
+        "wood": "Ash",
         "core": "Unicorn Hair",
-        "length": 13
+        "length": 12
       }
-
     ]
   },
   {
@@ -409,6 +408,27 @@
     "house": "Gryffindor",
     "gender": "Male",
     "blood_status": "Half-blood",
+    "is_death_eater": true,
+    "patronus": "Wolf",
+    "wand": [
+      {
+        "wood": "Yew",
+        "core": "Phoenix Feather Core",
+        "length": 13.5
+      },
+      {
+        "wood": "Chestnut",
+        "core": "Dragon Heartstring",
+        "length": 9
+      }
+    ]
+  },
+  {
+    "name": "Charles 'Charlie' Weasley",
+    "actor": "Alex Crockford",
+    "house": "Gryffindor",
+    "gender": "Male",
+    "blood_status": "Pure-blood",
     "is_death_eater": true,
     "patronus": "Wolf",
     "wand": [
